@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: nextcloud-config
+data:
+  NEXTCLOUD_ADMIN_USER: "shahzaib"
+
