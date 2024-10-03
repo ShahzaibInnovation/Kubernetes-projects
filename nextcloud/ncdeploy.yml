@@ -13,7 +13,7 @@ spec:
         app: nextcloud
     spec:
       containers:
-      - name: nextcloud
+      - name: nextcloud1
         image: nextcloud
         env:
           - name: MYSQL_PASSWORD
